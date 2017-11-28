@@ -1,0 +1,12 @@
+*.egg-info
+*.pot
+.tox/
+.DS_Store
+*.sqlite3
+*.db
+.cache
+MANIFEST
+build/
+__pycache__
+*.py[co]
+env
